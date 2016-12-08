@@ -1,0 +1,23 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: tjumain.aux
+A level-1 auxiliary file: body/intros.aux
+A level-1 auxiliary file: body/figures.aux
+A level-1 auxiliary file: body/tables.aux
+A level-1 auxiliary file: body/equations.aux
+A level-1 auxiliary file: body/others.aux
+A level-1 auxiliary file: body/conclusion.aux
+The style file: TJUThesis.bst
+A level-1 auxiliary file: appendix/publications.aux
+A level-1 auxiliary file: appendix/acknowledgements.aux
+Database file #1: references/reference.bib
+-- BUPTThesis.bst version 0.2 (2009/01/25) by Yu Zhang.
+-- http://code.google.com/p/buptthesis/
+-- See the "userguide.pdf" manual for usage information.
+Warning--The editor in agrawal2007resolving is missing.
+Warning--empty editor in agrawal2007resolving
+Warning--The editor in zhang2010tree is missing.
+Warning--empty editor in zhang2010tree
+Warning--The editor in Niwa1990 is missing.
+Warning--empty editor in Niwa1990
+
+Done.
+(There were 6 warnings)
